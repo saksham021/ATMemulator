@@ -1,0 +1,28 @@
+Welcome Customer,
+
+This text document tells you about the tasks which you can perform on the ATM Emulator and also makes 
+you aware about the developer of the this project. So please have a look:
+
+What can you do on this ATM which belongs to the Bank of JAVA:
+
+1)Create a new account		
+2)View your transaction history
+3)Withdraw money
+4)Deposit money
+5)Transfer money
+6)Check your Log in time
+7)Show Account Summary
+and finally 
+8)Exit.
+
+The project can be executed on Windows CMD.
+This ATM project contains FIVE classes: ATM_2(Class containing "Main function"), User, Account, Transaction,
+and Bank. These classes have been compiled and enclosed herewith the project.
+
+Developer of this Project is "SAKSHAM ARORA" with following particulars:
+Enrollment ID: HPER-7410 
+Reg. ID: 16133-6F54AM
+Batch: CORE JAVA (5th July,2016)
+Branch: NOIDA
+
+
